@@ -1376,11 +1376,9 @@ minimale Strichstärke: &lt;b&gt;0.2 mm&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 <wire x1="46.03" y1="43.18" x2="51.12" y2="43.18" width="1.27" layer="1"/>
 <wire x1="46.03" y1="43.18" x2="45.94" y2="43.18" width="1.016" layer="1"/>
 <wire x1="32.225" y1="44.665" x2="32.275" y2="44.665" width="1.016" layer="1"/>
-<wire x1="2.59" y1="45.17" x2="11.06" y2="45.17" width="1.27" layer="1"/>
-<wire x1="11.06" y1="45.17" x2="10.725" y2="44.835" width="1.016" layer="1"/>
 <wire x1="32.275" y1="44.665" x2="44.545" y2="44.665" width="1.27" layer="1"/>
 <wire x1="44.545" y1="44.665" x2="46.03" y2="43.18" width="1.27" layer="1"/>
-<wire x1="11.06" y1="45.17" x2="31.72" y2="45.17" width="1.27" layer="1"/>
+<wire x1="2.59" y1="45.17" x2="31.72" y2="45.17" width="1.27" layer="1"/>
 <wire x1="31.72" y1="45.17" x2="32.225" y2="44.665" width="1.27" layer="1"/>
 <wire x1="51.12" y1="43.18" x2="52.72" y2="41.58" width="1.27" layer="1"/>
 <wire x1="52.72" y1="41.58" x2="53.085" y2="41.215" width="1.27" layer="1"/>
@@ -1395,17 +1393,8 @@ minimale Strichstärke: &lt;b&gt;0.2 mm&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 </signal>
 <signal name="N$33">
 <contactref element="U1" pad="16"/>
-<wire x1="87.54" y1="49.38" x2="87.54" y2="22.09" width="0.4064" layer="1"/>
-<wire x1="81.23" y1="55.69" x2="87.54" y2="49.38" width="0.4064" layer="1"/>
-<wire x1="87.54" y1="22.09" x2="87" y2="21.55" width="0.4064" layer="1"/>
-<wire x1="87" y1="21.55" x2="86.4942" y2="21.55" width="0.4064" layer="1"/>
-<wire x1="50.2" y1="49.31" x2="50.2" y2="54.83" width="0.4064" layer="1"/>
-<wire x1="51.06" y1="55.69" x2="80.8" y2="55.69" width="0.4064" layer="1"/>
-<wire x1="80.8" y1="55.69" x2="81.23" y2="55.69" width="0.4064" layer="1"/>
-<wire x1="50.2" y1="54.83" x2="51.06" y2="55.69" width="0.4064" layer="1"/>
-<wire x1="80.8" y1="55.69" x2="79.65" y2="54.54" width="0.4064" layer="1"/>
 <contactref element="Q2" pad="G"/>
-<wire x1="57.34" y1="37.22" x2="50.2" y2="49.31" width="0" layer="19" extent="1-1"/>
+<wire x1="57.34" y1="37.22" x2="86.4942" y2="21.55" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$53">
 <contactref element="U1" pad="2"/>
