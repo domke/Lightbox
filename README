@@ -1,6 +1,3 @@
-Die Beschreibung und Dokumentation dieses Projektes findet man unter https://www.ccc-mannheim.de/wiki/Lightbox
+Work in Progress. Not yet working.
 
-Code und Hardware im Branch Master funktionieren.
-Code im Branch olpe läuft auf altem Protokoll.
-Hardware im Branch lightbox-smd wird gerade entwickelt. Code ist hierfür angepasst.
-
+In the meantime have a look at https://github.com/C3MA/Lightbox
